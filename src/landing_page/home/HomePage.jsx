@@ -9,10 +9,10 @@ function HomePage () {
     return (
         <div>
             <Hero />
-            <Awards />
             <Stats />
             <Pricing />
             <Education />
+            <Awards />
             <OpenAccount />
         </div>
     )
