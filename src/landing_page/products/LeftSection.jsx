@@ -1,6 +1,6 @@
 function LeftSection({ imageUrl, productName, productDescription, tryDemo, learnMore, googlePlay, appStore }) {
     return (
-        <div className="container">
+        <div className="container ">
             <div className="row">
                 <div className="col-6 mt-5  ">
                     <img src={imageUrl} alt="image" />
